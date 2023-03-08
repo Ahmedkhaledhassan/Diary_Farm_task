@@ -49,6 +49,8 @@
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.label12 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.guna2GradientPanel1.SuspendLayout();
             this.SuspendLayout();
@@ -223,7 +225,7 @@
             this.label11.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label11.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label11.Location = new System.Drawing.Point(273, 177);
+            this.label11.Location = new System.Drawing.Point(433, 174);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(44, 24);
             this.label11.TabIndex = 27;
@@ -231,16 +233,37 @@
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(277, 217);
+            this.textBox5.Location = new System.Drawing.Point(421, 212);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(109, 20);
             this.textBox5.TabIndex = 26;
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(239, 209);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(165, 20);
+            this.dateTimePicker1.TabIndex = 28;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label12.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.label12.Location = new System.Drawing.Point(254, 174);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(44, 24);
+            this.label12.TabIndex = 29;
+            this.label12.Text = "AGE";
             // 
             // Cows
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(919, 548);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label10);
@@ -289,5 +312,7 @@
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.Label label12;
     }
 }
