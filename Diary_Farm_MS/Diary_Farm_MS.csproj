@@ -85,6 +85,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Cows.resx">
+      <DependentUpon>Cows.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login page.resx">
       <DependentUpon>Login page.cs</DependentUpon>
     </EmbeddedResource>
