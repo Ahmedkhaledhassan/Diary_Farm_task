@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Bunifu.UI.WinForms.BunifuProgressBar">
+      <HintPath>G:\Windows_tasks_term2\Bunifu_UI_WinForms_5.0.3\ui.winforms.5.0.3\Bunifu.UI.WinForms.BunifuProgressBar.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
