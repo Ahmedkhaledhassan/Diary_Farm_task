@@ -331,9 +331,9 @@
             this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label1.Location = new System.Drawing.Point(6, 10);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(133, 24);
+            this.label1.Size = new System.Drawing.Size(128, 24);
             this.label1.TabIndex = 113;
-            this.label1.Text = "Cow Breading";
+            this.label1.Text = "Expenditures";
             // 
             // label3
             // 
@@ -491,9 +491,9 @@
             this.label11.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label11.Location = new System.Drawing.Point(367, -3);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(126, 24);
+            this.label11.Size = new System.Drawing.Size(116, 24);
             this.label11.TabIndex = 132;
-            this.label11.Text = "Farm finance";
+            this.label11.Text = "Incomes list";
             // 
             // guna2DataGridView1
             // 
@@ -518,7 +518,7 @@
             dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.guna2DataGridView1.DefaultCellStyle = dataGridViewCellStyle6;
             this.guna2DataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            this.guna2DataGridView1.Location = new System.Drawing.Point(247, 24);
+            this.guna2DataGridView1.Location = new System.Drawing.Point(247, 39);
             this.guna2DataGridView1.Name = "guna2DataGridView1";
             this.guna2DataGridView1.RowHeadersVisible = false;
             this.guna2DataGridView1.Size = new System.Drawing.Size(362, 171);
@@ -622,9 +622,9 @@
             this.label15.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label15.Location = new System.Drawing.Point(6, 10);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(133, 24);
+            this.label15.Size = new System.Drawing.Size(82, 24);
             this.label15.TabIndex = 113;
-            this.label15.Text = "Cow Breading";
+            this.label15.Text = "Incomes";
             // 
             // Finances
             // 
