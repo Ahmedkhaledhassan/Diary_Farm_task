@@ -23,3 +23,4 @@ C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Deb
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.CowHealth.resources
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.Finances.resources
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.MilkSales.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.Dashboard.resources
