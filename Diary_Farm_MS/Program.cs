@@ -19,7 +19,7 @@ namespace Diary_Farm_MS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login_page());
+            Application.Run(new Cows());
         }
     }
 }

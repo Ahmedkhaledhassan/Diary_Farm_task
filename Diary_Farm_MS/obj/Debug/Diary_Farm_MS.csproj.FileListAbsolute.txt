@@ -2,7 +2,6 @@ C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Deb
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Diary_Farm_MS.exe
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Diary_Farm_MS.pdb
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
-C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Bunifu.Licensing.dll
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.csproj.AssemblyReference.cache
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.csproj.SuggestedBindingRedirects.cache
@@ -17,3 +16,5 @@ C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Deb
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Guna.Charts.WinForms.dll
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Guna.UI2.dll
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.Cows.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
