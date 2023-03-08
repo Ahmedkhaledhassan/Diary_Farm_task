@@ -43,5 +43,12 @@ namespace Diary_Farm_MS
             Ob.Show();
             this.Hide();
         }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            MilfProductions Ob = new MilfProductions();
+            Ob.Show();
+            this.Hide();
+        }
     }
 }
