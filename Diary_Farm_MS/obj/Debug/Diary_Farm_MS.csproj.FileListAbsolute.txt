@@ -14,3 +14,6 @@ C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Deb
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.csproj.CopyComplete
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.exe
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.pdb
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Guna.UI2.dll
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.Cows.resources
