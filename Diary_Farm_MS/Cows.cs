@@ -47,5 +47,19 @@ namespace Diary_Farm_MS
             Ob.Show();
             this.Hide();
         }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            Breadings Ob = new Breadings();
+            Ob.Show();
+            this.Hide();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            MilkSales Ob = new MilkSales();
+            Ob.Show();
+            this.Hide();
+        }
     }
 }
