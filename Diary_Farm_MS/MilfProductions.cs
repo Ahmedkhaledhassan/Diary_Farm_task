@@ -16,5 +16,20 @@ namespace Diary_Farm_MS
         {
             InitializeComponent();
         }
+
+        private void MilfProductions_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox7_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
