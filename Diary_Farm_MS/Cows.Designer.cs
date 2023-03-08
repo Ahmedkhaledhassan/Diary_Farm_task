@@ -229,7 +229,7 @@
             this.label11.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label11.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label11.Location = new System.Drawing.Point(433, 174);
+            this.label11.Location = new System.Drawing.Point(427, 174);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(44, 24);
             this.label11.TabIndex = 27;
@@ -267,15 +267,15 @@
             this.label13.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label13.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label13.Location = new System.Drawing.Point(564, 174);
+            this.label13.Location = new System.Drawing.Point(542, 174);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(44, 24);
+            this.label13.Size = new System.Drawing.Size(139, 24);
             this.label13.TabIndex = 32;
-            this.label13.Text = "AGE";
+            this.label13.Text = "weight at birth";
             // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(568, 212);
+            this.textBox6.Location = new System.Drawing.Point(546, 212);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(109, 20);
             this.textBox6.TabIndex = 31;
@@ -286,11 +286,11 @@
             this.label14.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label14.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label14.Location = new System.Drawing.Point(705, 174);
+            this.label14.Location = new System.Drawing.Point(709, 174);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(44, 24);
+            this.label14.Size = new System.Drawing.Size(73, 24);
             this.label14.TabIndex = 34;
-            this.label14.Text = "AGE";
+            this.label14.Text = "Pasture";
             // 
             // textBox7
             // 
