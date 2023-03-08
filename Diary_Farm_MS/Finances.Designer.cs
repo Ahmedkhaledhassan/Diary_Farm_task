@@ -79,6 +79,8 @@
             this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
             this.label14 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
+            this.dateTimePicker3 = new System.Windows.Forms.DateTimePicker();
+            this.label20 = new System.Windows.Forms.Label();
             this.guna2GradientPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -468,6 +470,8 @@
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.label20);
+            this.panel3.Controls.Add(this.dateTimePicker3);
             this.panel3.Controls.Add(this.label11);
             this.panel3.Controls.Add(this.guna2DataGridView1);
             this.panel3.Controls.Add(this.button1);
@@ -489,7 +493,7 @@
             this.label11.BackColor = System.Drawing.SystemColors.Control;
             this.label11.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label11.Location = new System.Drawing.Point(367, -3);
+            this.label11.Location = new System.Drawing.Point(367, 0);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(116, 24);
             this.label11.TabIndex = 132;
@@ -518,10 +522,10 @@
             dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.guna2DataGridView1.DefaultCellStyle = dataGridViewCellStyle6;
             this.guna2DataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            this.guna2DataGridView1.Location = new System.Drawing.Point(247, 39);
+            this.guna2DataGridView1.Location = new System.Drawing.Point(247, 50);
             this.guna2DataGridView1.Name = "guna2DataGridView1";
             this.guna2DataGridView1.RowHeadersVisible = false;
-            this.guna2DataGridView1.Size = new System.Drawing.Size(362, 171);
+            this.guna2DataGridView1.Size = new System.Drawing.Size(362, 160);
             this.guna2DataGridView1.TabIndex = 131;
             this.guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
             this.guna2DataGridView1.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -570,9 +574,9 @@
             this.label12.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label12.Location = new System.Drawing.Point(10, 158);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(57, 24);
+            this.label12.Size = new System.Drawing.Size(75, 24);
             this.label12.TabIndex = 128;
-            this.label12.Text = "Event";
+            this.label12.Text = "Amount";
             // 
             // label13
             // 
@@ -582,9 +586,9 @@
             this.label13.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label13.Location = new System.Drawing.Point(6, 100);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(77, 24);
+            this.label13.Size = new System.Drawing.Size(49, 24);
             this.label13.TabIndex = 127;
-            this.label13.Text = "Purpose";
+            this.label13.Text = "Type";
             // 
             // comboBox2
             // 
@@ -610,9 +614,9 @@
             this.label14.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label14.Location = new System.Drawing.Point(6, 50);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(141, 24);
+            this.label14.Size = new System.Drawing.Size(115, 24);
             this.label14.TabIndex = 124;
-            this.label14.Text = "Pregnancy Date";
+            this.label14.Text = "Icomes DAte";
             // 
             // label15
             // 
@@ -625,6 +629,26 @@
             this.label15.Size = new System.Drawing.Size(82, 24);
             this.label15.TabIndex = 113;
             this.label15.Text = "Incomes";
+            // 
+            // dateTimePicker3
+            // 
+            this.dateTimePicker3.Location = new System.Drawing.Point(344, 24);
+            this.dateTimePicker3.Name = "dateTimePicker3";
+            this.dateTimePicker3.Size = new System.Drawing.Size(165, 20);
+            this.dateTimePicker3.TabIndex = 133;
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label20.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label20.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label20.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.label20.Location = new System.Drawing.Point(261, 18);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(66, 26);
+            this.label20.TabIndex = 134;
+            this.label20.Text = "Filters";
             // 
             // Finances
             // 
@@ -703,5 +727,7 @@
         private System.Windows.Forms.DateTimePicker dateTimePicker2;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.DateTimePicker dateTimePicker3;
     }
 }
