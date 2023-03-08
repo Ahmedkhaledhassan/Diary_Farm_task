@@ -416,9 +416,9 @@
             this.label7.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label7.Location = new System.Drawing.Point(66, 174);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(96, 24);
+            this.label7.Size = new System.Drawing.Size(125, 24);
             this.label7.TabIndex = 15;
-            this.label7.Text = "Nice Cows";
+            this.label7.Text = "Milk products";
             // 
             // pictureBox2
             // 
