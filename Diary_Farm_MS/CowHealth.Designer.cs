@@ -71,9 +71,9 @@
             this.label4 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.guna2GradientPanel1 = new Guna.UI2.WinForms.Guna2GradientPanel();
             this.label1 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.guna2DataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -386,7 +386,7 @@
             this.label10.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label10.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label10.Location = new System.Drawing.Point(648, 42);
+            this.label10.Location = new System.Drawing.Point(648, 49);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(59, 24);
             this.label10.TabIndex = 78;
@@ -405,7 +405,7 @@
             this.label9.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label9.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label9.Location = new System.Drawing.Point(384, 42);
+            this.label9.Location = new System.Drawing.Point(384, 52);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(98, 24);
             this.label9.TabIndex = 76;
@@ -489,7 +489,7 @@
             this.label4.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label4.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label4.Location = new System.Drawing.Point(532, 42);
+            this.label4.Location = new System.Drawing.Point(521, 55);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(78, 24);
             this.label4.TabIndex = 74;
@@ -508,18 +508,11 @@
             this.label3.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label3.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label3.Location = new System.Drawing.Point(248, 42);
+            this.label3.Location = new System.Drawing.Point(227, 52);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(68, 24);
             this.label3.TabIndex = 72;
             this.label3.Text = "Cow id";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(229, 82);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(113, 20);
-            this.textBox1.TabIndex = 71;
             // 
             // guna2GradientPanel1
             // 
@@ -542,11 +535,25 @@
             this.label1.TabIndex = 69;
             this.label1.Text = "Proffesionalism";
             // 
+            // comboBox1
+            // 
+            this.comboBox1.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Admin ",
+            "Employee"});
+            this.comboBox1.Location = new System.Drawing.Point(231, 82);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 26);
+            this.comboBox1.TabIndex = 92;
+            this.comboBox1.Text = "Select Role";
+            // 
             // CowHealth
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(899, 516);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.guna2DataGridView1);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.textBox6);
@@ -568,7 +575,6 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.guna2GradientPanel1);
             this.Controls.Add(this.label1);
             this.Name = "CowHealth";
@@ -630,8 +636,8 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox1;
         private Guna.UI2.WinForms.Guna2GradientPanel guna2GradientPanel1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }
