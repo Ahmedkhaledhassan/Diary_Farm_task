@@ -19,3 +19,7 @@ C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Deb
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
 C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.MilfProductions.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.Breadings.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.CowHealth.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.Finances.resources
+C:\Users\IT\Source\Repos\Ahmedkhaledhassan\Diary_Farm_task\Diary_Farm_MS\obj\Debug\Diary_Farm_MS.MilkSales.resources
