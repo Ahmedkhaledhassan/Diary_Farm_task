@@ -50,5 +50,12 @@ namespace Diary_Farm_MS
             Ob.Show();
             this.Hide();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            CowHealth Ob = new CowHealth();
+            Ob.Show();
+            this.Hide();
+        }
     }
 }
