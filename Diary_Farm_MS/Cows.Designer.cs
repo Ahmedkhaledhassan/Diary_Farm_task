@@ -97,10 +97,11 @@
             // 
             // guna2GradientPanel1
             // 
+            this.guna2GradientPanel1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.guna2GradientPanel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.guna2GradientPanel1.Location = new System.Drawing.Point(221, 0);
             this.guna2GradientPanel1.Name = "guna2GradientPanel1";
-            this.guna2GradientPanel1.Size = new System.Drawing.Size(620, 100);
+            this.guna2GradientPanel1.Size = new System.Drawing.Size(620, 49);
             this.guna2GradientPanel1.TabIndex = 15;
             // 
             // Cows
